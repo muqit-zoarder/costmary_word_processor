@@ -1,4 +1,8 @@
 # costmary_word_processor
+
+![Python application](https://github.com/muqit-zoarder/costmary_word_processor/workflows/Python%20application/badge.svg)
+
+
 This is an application that counts the number of words in a string/text. The application should be able to accept a string and count the number of words without fail!  Steps: 1. Create a file called for example `word_counter.py` 2. Create another file called `test_word_counter.py`     use `touch` to create files in terminal.
 
 
@@ -136,9 +140,6 @@ df = pd.read_csv(package_dir + '/data/my_data.csv')
 python -m build
 twine upload --repository testpypi dist/*
 ```
-
-![Python application](https://github.com/muqit-zoarder/REPO/costmary_word_processor/Python%20application/badge.svg)
-
 
 
 
