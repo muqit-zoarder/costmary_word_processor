@@ -137,7 +137,7 @@ python -m build
 twine upload --repository testpypi dist/*
 ```
 
-
+![Python application](https://github.com/muqit-zoarder/REPO/costmary_word_processor/Python%20application/badge.svg)
 
 
 

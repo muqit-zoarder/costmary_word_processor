@@ -1,4 +1,4 @@
-cdfrom setuptools import setup
+from setuptools import setup
 
 setup(
     name='costmary_word_processor',
