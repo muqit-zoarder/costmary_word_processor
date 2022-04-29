@@ -4,7 +4,7 @@ pytest is our module of choice to do our testing
 """
 import pytest
 
-from word_counter import WordCounter
+from costmary_word_processor.word_counter import WordCounter
 
 
 # pylint: disable=R0201
